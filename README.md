@@ -1,7 +1,7 @@
 # Jogo Qual é o Cantor
 Jogo Criado para a disciplina de Tópicos Especiais Integrados
 
-Tenologias:
+##Tenologias
 -HTML
 -CSS
 -Java Script
