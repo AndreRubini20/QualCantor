@@ -2,6 +2,6 @@
 Jogo Criado para a disciplina de Tópicos Especiais Integrados
 
 ##Tenologias
--HTML
--CSS
--Java Script
+- HTML
+- CSS
+- Java Script
